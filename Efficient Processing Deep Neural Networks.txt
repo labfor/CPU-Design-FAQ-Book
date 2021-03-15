@@ -1,0 +1,5 @@
+关于Efficient Processing of Deep Neural Networks
+
+（每日天晚上写一点）
+
+这一期的质量非常高，整本综述写作流畅、脉络清晰、内容详实，为体系结构研究树立了一个很不错的榜样。整本综述分为三个章节，围绕着作者著名的Eyeriss相关工作，
